@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--costcodfjan3ouqvyqmpocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/e135daea-2ce5-478e-b124-d905e0e2b541/resourceGroups/synapse_pof/providers/Microsoft.Synapse/workspaces/costcodfjan3ouqvyqmpocws1",
+		"groupId": "sql",
+		"fqdns": [
+			"costcodfjan3ouqvyqmpocws1.ddbc6716-f9ed-413d-97cb-47d61bf37f03.sql.azuresynapse.net"
+		]
+	}
+}
